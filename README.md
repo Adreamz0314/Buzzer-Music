@@ -29,4 +29,4 @@
 https://www.zhihu.com/question/664475250
 
 ## 乐谱
-![你从未离去 简谱](/home/mochi/桌面/Buzzer Music/musical score image/你从未离去.png "《你从未离去》简谱")
+![你从未离去 简谱](musical score image/你从未离去.png "《你从未离去》简谱")
