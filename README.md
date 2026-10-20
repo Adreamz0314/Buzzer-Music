@@ -27,3 +27,6 @@
 > 补充乐理参考：
 > 如果每秒弹奏钢琴的C键440次，它会发A音还是C音？ - 知乎
 https://www.zhihu.com/question/664475250
+
+## 乐谱
+![你从未离去 简谱](/home/mochi/桌面/Buzzer Music/musical score image/你从未离去.png "《你从未离去》简谱")
